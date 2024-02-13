@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51979799037",
+    "project_id": "bookspace-4a6f1",
+    "storage_bucket": "bookspace-4a6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51979799037:android:3e5fad683e501134bcb194",
+        "android_client_info": {
+          "package_name": "com.xipher.bookspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNQrIy81IKj19fQUjC-fEr86OQ_KLDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
